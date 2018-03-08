@@ -19,15 +19,15 @@ public class Trabajo_Persona {
        
 Persona obj1 = new Persona ();
         
-    obj1.setNombre("Duvan ");
-    obj1.setApellido("Perdomo");
+    obj1.setNombre("luis ");
+    obj1.setApellido("silva");
     obj1.unir();  
            
                      
 Persona obj2 = new Persona ();
         
     obj2.setCodigo("582645865");
-    obj2.setInfo("Es muy obediente y siempre cumple con su tarea");
+    obj2.setInfo("es generoso y feliz");
            
         System.out.println(obj2.getCodigo());
         System.out.println(obj2.getInfo());
